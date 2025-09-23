@@ -8,3 +8,4 @@ def age_calculator(birth_year,birth_month,birth_date):
 birth_year = int(input("enter the year")
 birth_month = int(input("enter month")
 birth_date = int(input("emter date")
+print(age_calculator(birth_year,birth_month,birth_date))
